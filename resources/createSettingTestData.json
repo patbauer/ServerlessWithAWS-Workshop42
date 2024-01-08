@@ -1,0 +1,17 @@
+{
+    "settingId": "unique-setting-identifier",
+    "apiDetails": {
+      "baseUrl": "https://api.example.com",
+      "authType": "API_KEY",
+      "apiKey": "example-api-key",
+      "additionalHeaders": {
+        "Content-Type": "application/json"
+      }
+    },
+    "parameters": {
+      "param1": "value1",
+      "param2": "value2"
+    },
+    "description": "Description of the API setting"
+  }
+  

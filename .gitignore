@@ -1,0 +1,8 @@
+# Compiled .ts files and node_modules not needed in repository
+*.js
+*.d.ts
+node_modules
+
+# CDK asset staging directory
+.cdk.staging
+cdk.out
